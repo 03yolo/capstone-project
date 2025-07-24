@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace poms_website_project;
+namespace poms_website_project.Data;
 
 public partial class PdfmnhsDbContext : DbContext
 {

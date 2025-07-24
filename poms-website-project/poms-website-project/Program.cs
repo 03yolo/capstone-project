@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using poms_website_project;
+using poms_website_project.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
